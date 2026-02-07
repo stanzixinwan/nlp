@@ -1,0 +1,20 @@
+[
+  {
+    "label": "positive",
+    "airline": "Brandeis",
+    "sentences": [
+      [
+        "I",
+        "love",
+        "flying",
+        "!"
+      ],
+      [
+        "Best",
+        "flight",
+        "ever",
+        "!"
+      ]
+    ]
+  }
+]

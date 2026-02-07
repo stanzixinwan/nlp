@@ -1,0 +1,2 @@
+Tokenized text is easy to work with .
+Writing a tokenizer is a pain .
